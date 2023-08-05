@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Dilpreet Singh</h1>
-- 🌿 I’m currently learning **AI/ML**
-
 - 💬 Ask me about **C, C++, Python**
+
+- 🌿 I’m currently learning **AI/ML**
 
 - 📧 Reach me at **singhdilpreet1126@gmail.com**
 
