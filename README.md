@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Dilpreet Singh</h1>
+
 - 💬 Ask me about **C, C++, Python**
 
 - 🌿 I’m currently learning **AI/ML**
